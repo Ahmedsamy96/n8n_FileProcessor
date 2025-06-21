@@ -5,7 +5,7 @@ A detailed explanation of the n8n OCR web app that extracts text from uploaded f
 
 ---
 
-![n8n OCR Workflow](https://files.chat.openai.com/file-5d3bCJerZQhFLBoneg6idc)
+![n8n OCR Workflow](https://github.com/Ahmedsamy96/n8n_FileProcessor/blob/main/n8n_workflow.png)
 
 ---
 
