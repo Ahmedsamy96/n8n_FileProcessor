@@ -5,7 +5,7 @@ A detailed explanation of the n8n OCR web app that extracts text from uploaded f
 
 ---
 
-![n8n OCR Workflow](https://github.com/Ahmedsamy96/n8n_FileProcessor/blob/main/n8n_workflow.png)
+![n8n OCR Workflow](https://github.com/Ahmedsamy96/n8n_FileProcessor/blob/main/img/n8n_workflow.png)
 
 ---
 
@@ -61,6 +61,13 @@ A detailed explanation of the n8n OCR web app that extracts text from uploaded f
 - **Behavior**: Closes the request-response loop, allowing the UI to display results to the user.
 
 ---
+### **Final View:**
+#### input
+![n8n OCR Workflow](https://github.com/Ahmedsamy96/n8n_FileProcessor/blob/main/img/Web_UI_1.png)
+
+#### output
+![n8n OCR Workflow](https://github.com/Ahmedsamy96/n8n_FileProcessor/blob/main/img/Web_UI_2.png)
+
 
 ## ✅ Summary
 
